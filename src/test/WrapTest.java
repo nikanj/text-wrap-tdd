@@ -24,6 +24,7 @@ public class WrapTest {
 		assertWrapped("xx xx", 2, "xx\nxx");
 		assertWrapped("xx xx", 3, "xx\nxx");
 		assertWrapped("xx xx", 4, "xx\nxx");
+		assertWrapped("xx xx", 6, "xx xx");
 		assertWrapped(
 				"Write a long sentence and test the result of this long sentence",
 				3,
