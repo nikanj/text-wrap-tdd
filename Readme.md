@@ -1,4 +1,4 @@
-### The Word Wrap Kata (via [CodingDojo](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap))
+### The Word Wrap Kata
 	Create a function which breaks words on specified space with new line. Its nothing but merely similar to word-processor.
 
 #### Rules:
